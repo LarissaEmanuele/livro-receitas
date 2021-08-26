@@ -1,3 +1,3 @@
-# Livro de receitas :woman_cook
+# Livro de receitas 🧑‍🍳
 Seja bem-vindo ao meu livro de receitas!
  - Strogonoff de frago
